@@ -35,6 +35,7 @@ print("The element " + str(num_lists[0]) +
 num_strings.sort()
 num_ints.sort()
 print("\nNow sorting num_strings and num_ints...")
+print("Strings are sorted alphabetically while ints are sorted numerically...")
 print("Sorted num_strings: " + str(num_strings))
 
 print("Sorted num_ints " + str(num_ints))
