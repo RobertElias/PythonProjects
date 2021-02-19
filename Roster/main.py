@@ -17,4 +17,8 @@ roster.append(player)
 #Dispaly Roster
 print("\n\tYour starting 5 for the upcoming basketball season")
 print("\T\TPoint Guard:\t\t" + roster[0])
+print("\T\TShooting Guard:\t\t" + roster[1])
+print("\T\TSmall Forward:\t\t" + roster[2])
+print("\T\TPower Forward:\t\t" + roster[3])
+print("\T\TCenter:\t\t" + roster[4])
 print(roster)
