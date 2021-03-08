@@ -1,4 +1,4 @@
-#2. Write a Python program to append a new item to the end of the array.
+#2. Write a Python program to reverse the order of the items in the array.
 
 from array import *
 array_num = array("i", [1,3,5,3,7,1,9,3])
