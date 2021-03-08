@@ -1,4 +1,4 @@
-#Python Search and Sorting : Exercise-3
+#3. Write a Python program for binary search for an ordered list.
 def Ordered_binary_Search(olist, item):
 
     if len(olist) == 0:

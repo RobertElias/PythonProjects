@@ -1,4 +1,4 @@
-#Python Search and Sorting: Exercise-2
+#2. Write a Python program for sequential search.
 #Linear/Sequential Search
 
 def Sequential_Search(dlist, item):

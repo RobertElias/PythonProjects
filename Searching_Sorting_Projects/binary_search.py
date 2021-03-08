@@ -1,4 +1,4 @@
-#Python Search and Sorting : Exercise-1 with Solution
+#1. Write a Python program for binary search.
 
 def binary_search(item_list, item):
     first = 0

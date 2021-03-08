@@ -1,3 +1,4 @@
+#5. Write a Python program to sort a list of elements using the selection sort algorithm.
 def selectionSort(nlist):
     for fillslot in range(len(nlist)-1,0-1):
         maxpos = 0
